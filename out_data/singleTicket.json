@@ -1,0 +1,24 @@
+{
+    "number_of_specific_slot": 33972,
+    "percentage": 96.03,
+    "male_number": 7577,
+    "male_percentage": 22.303661839161663,
+    "female_number": 26395,
+    "female_percentage": 77.69633816083834,
+    "popcorn_number": 72,
+    "popcorn_percentage": 0.2119392440833628,
+    "job_list": {
+        "blue collar": 2396,
+        "specialist": 2531,
+        "student": 4476,
+        "teenager": 22020,
+        "white collar": 2549
+    },
+    "job_percentage_list": {
+        "blue collar_percentage": 7.05,
+        "specialist_percentage": 7.45,
+        "student_percentage": 13.18,
+        "teenager_percentage": 64.82,
+        "white collar_percentage": 7.5
+    }
+}
