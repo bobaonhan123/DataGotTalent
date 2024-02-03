@@ -5,7 +5,7 @@ import os
 client = MongoClient('mongodb://localhost:27017/')
 db = client['filmlover']
 
-file_path = 'film.xlsx'  
+file_path = 'CrawledFilms.xlsx'  
 
 data = pd.read_excel(file_path)
 
